@@ -2,5 +2,5 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def members(request):
-    return HttpResponse("Hello world!")
+    return HttpResponse("Hello Guys I am From Asia Pacific College!")
 
